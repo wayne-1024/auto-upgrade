@@ -1,0 +1,5 @@
+2022/10/10 16:51:43 [notice] 27628#30600: signal process started
+2022/10/10 16:54:42 [notice] 35504#16240: signal process started
+2022/10/10 16:56:00 [notice] 18836#23632: signal process started
+2022/10/10 16:56:00 [error] 18836#23632: CreateFile() "C:\Users\26389\code\python\auto-upgrade\example\App\tools\nginx-1.22.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2022/10/11 10:59:04 [error] 7244#7856: *1 CreateFile() "C:\Users\26389\code\python\auto-upgrade\example\tools\nginx-1.22.0/..\..\Patch/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:1024", referrer: "http://localhost:1024/"
